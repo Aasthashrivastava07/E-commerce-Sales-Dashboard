@@ -54,4 +54,4 @@ The dataset used for this project is a transactional sales record from a fiction
 - **Top Customers**: Customers like Harivansh, Shruti, Parishi, and Sarita are the top buyers by quantity. Acknowledging and engaging this customer segment through a loyalty program could enhance retention and lifetime value.
 
   ### Screeshots:
-- **The dashboard looks like this**:
+- **The dashboard looks like this**:(https://github.com/Aasthashrivastava07/E-commerce-Sales-Dashboard/blob/main/e-commerce%20sales%20dashboard%20snapshot.png)
